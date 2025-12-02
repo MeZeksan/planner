@@ -15,6 +15,7 @@ class User(BaseModel):
             }
         }
 
+
 class NewUser(User):
     pass
 
